@@ -1,0 +1,1 @@
+This repository is used to store the codes for the paper entitled "Limited regulation of canopy water use efficiency by stomatal behavior under drought propagation" to be published in Global Change Biology.
